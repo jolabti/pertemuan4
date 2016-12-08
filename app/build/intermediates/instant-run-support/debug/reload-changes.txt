@@ -1,0 +1,11 @@
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/R$styleable$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/R$mipmap$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/R$id$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/MainActivity$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/R$layout$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/R$integer$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/R$string$override.class
+CHANGED,/var/www/Pertemuan4/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/pertemuan4/R$style$override.class
